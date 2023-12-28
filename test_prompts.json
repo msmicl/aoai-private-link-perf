@@ -1,0 +1,172 @@
+{
+    "test_prompts": [
+        {
+            "category": "YesorNo",
+            "base_prompt": "Please answer the following question with Yes or No only ASAP, without giving explanations or other words:",
+            "prompts": [
+                {
+                    "index": 0,
+                    "title": "Earth Weight",
+                    "prompt": "The Earth is more massive than the Sun."
+                },
+                {
+                    "index": 1,
+                    "title": "The sun is a planet",
+                    "prompt": "The sun is a planet."
+                },
+                {
+                    "index": 2,
+                    "title": "Louis XVI",
+                    "prompt": "Louis XVI died of illness."
+                },
+                {
+                    "index": 3,
+                    "title": "Japan's time zone",
+                    "prompt": "Japan's time zone is in West 8th Ward."
+                },
+                {
+                    "index": 4,
+                    "title": "math",
+                    "prompt": "Five plus three equals nine."
+                },
+                {
+                    "index": 5,
+                    "title": "Einstein",
+                    "prompt": "Calculus was invented by Einstein."
+                },
+                {
+                    "index": 6,
+                    "title": "Newton",
+                    "prompt": "Newton's wife was Madame Bovary."
+                },
+                {
+                    "index": 7,
+                    "title": "Fish",
+                    "prompt": "Crocodile is a flying fish."
+                },
+                {
+                    "index": 8,
+                    "title": "rooster",
+                    "prompt": "A rooster has four legs, two more than a hen."
+                },
+                {
+                    "index": 9,
+                    "title": "human",
+                    "prompt": "Humans have four eyes."
+                }
+            ]
+        },
+        {
+            "category": "Query",
+            "base_prompt": "Please answer the following questions in as much detail as possible. The word count should be between 200 and 300 words.",
+            "prompts": [
+                {
+                    "index": 0,
+                    "title": "Newton law1",
+                    "prompt": "What is Newton's first law?"
+                },
+                {
+                    "index": 1,
+                    "title": "Newton law2",
+                    "prompt": "What is Newton's second law?"
+                },
+                {
+                    "index": 2,
+                    "title": "Einstein",
+                    "prompt": "What is Einstein's Strange Year?"
+                },
+                {
+                    "index": 3,
+                    "title": "computer",
+                    "prompt": "Would you introduce the world's first computer?"
+                },
+                {
+                    "index": 4,
+                    "title": "eiffel tower",
+                    "prompt": "Can you introduce history of the Eiffel Tower?"
+                },
+                {
+                    "index": 5,
+                    "title": "Louvre",
+                    "prompt": "Can you introduce the history of the Louvre?"
+                },
+                {
+                    "index": 6,
+                    "title": "Renaissance",
+                    "prompt": "Can you introduce the Renaissance?"
+                },
+                {
+                    "index": 7,
+                    "title": "Bernoulli",
+                    "prompt": "What is Bernoulli's principle?"
+                },
+                {
+                    "index": 8,
+                    "title": "Amendment",
+                    "prompt": "What is the Fifth Amendment to the United States Constitution?"
+                },
+                {
+                    "index": 9,
+                    "title": "US Constitution",
+                    "prompt": "Which U.S. Constitution gives citizens the right to bear arms?"
+                }
+            ]
+        },
+        {
+            "category": "generation",
+            "base_prompt": "You are a professional writer, please write the corresponding text according to the following requirements.",
+            "prompts": [
+                {
+                    "index": 0,
+                    "title": "sonnet",
+                    "prompt": "Please write a sonnet in English with the theme of roses and love."
+                },
+                {
+                    "index": 1,
+                    "title": "slogan",
+                    "prompt": "Please write a slogan that inspires people to strive."
+                },
+                {
+                    "index": 2,
+                    "title": "Chinese poem",
+                    "prompt": "请以感受李白的《送孟浩然之广陵》仿写一首类似的诗。"
+                },
+                {
+                    "index": 3,
+                    "title": "prose",
+                    "prompt": "Write a short prose of 200 words with the title 'Road'."
+                },
+                {
+                    "index": 4,
+                    "title": "argumentative",
+                    "prompt": "Write an argumentative essay arguing that rechargeable cars have advantages over gasoline-burning cars."
+                },
+                {
+                    "index": 5,
+                    "title": "farewell email",
+                    "prompt": "You have worked hard for the company for 10 years, and you are leaving tomorrow for a new company. Here are your colleagues, leaders and friends. Please write a warm farewell email to express your gratitude and say goodbye."
+                },
+                {
+                    "index": 6,
+                    "title": "airplane",
+                    "prompt": "Now you need to write a popular science article. Please use straightforward language to introduce how airplanes fly based on Bernoulli's principle."
+                },
+                {
+                    "index": 7,
+                    "title": "otto",
+                    "prompt": "Now you need to write a popular science article to introduce the difference between Otto cycle and two-stroke."
+                },
+                {
+                    "index": 8,
+                    "title": "stem cells",
+                    "prompt": "Please write a short article to introduce the role of stem cells in the human body."
+                },
+                {
+                    "index": 9,
+                    "title": "soldiers",
+                    "prompt": "Please write an essay on the theme of steel, blood, and battle to praise the pride of soldiers."
+                }
+            ]
+        }
+    ]
+}
